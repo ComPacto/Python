@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (PythonIdeias) (2)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (PythonIdeias) (2)" project-jdk-type="Python SDK" />
+=======
+<<<<<<< HEAD
+    <option name="sdkName" value="Python 3.12 (PythonIdeias)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (PythonIdeias)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (Ideias)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Ideias)" project-jdk-type="Python SDK" />
+>>>>>>> d090b9a51ca850f704ae22acb51c1c49921bfc2a
+>>>>>>> 1baec364dcbe0d4f73db63a3a8b7a2447c40a351
 </project>
